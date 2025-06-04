@@ -1,0 +1,10 @@
+flask
+datetime
+yfinance
+pandas
+numpy
+logging
+click
+torch
+scikit-learn
+flask_cors
