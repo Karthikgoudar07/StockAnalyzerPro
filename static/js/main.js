@@ -730,7 +730,8 @@ const response = await fetch('/api/check', {
         success: true,
         message: "button clicked"
     })
-});
+}
+);
 
 if (!response.ok) {
     throw new Error(`HTTP error! status: ${response.status}`);
